@@ -28,7 +28,7 @@ O NPM é uma ferramenta do Node.js para o gerenciamento de pacotes. Ele permite 
 
 ## Por que devo usa-lo?
 
-Realizar instalações manuais de bibliotecas, frameworks e ferramentas pode ser bem trabalhoso, além de ser maior as chances de realizar configurações erradas. E não é só isso, veja outros motivos que fazem essa ferramenta tão essencial.
+Realizar instalações manuais de bibliotecas, frameworks e ferramentas pode ser bem trabalhoso, além de ser maior as chances de realizar configurações erradas.
 
 ## Comandos básicos:
 `npm -version` / `npm -v`: Exibi a versão do NPM.
